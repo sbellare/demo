@@ -63,10 +63,12 @@
                     <remote>false</remote>
                     <verbose>true</verbose>
                     <upload>true</upload>
-                    <!-- <source>${project.build.directory}/${project.build.finalName}.${project.packaging}</source>
-                    <name>${project.build.finalName}</name>-->
-                    <source>C:\Workspace\demo\target\demo-0.0.1-SNAPSHOT</source>
-                    <name>demo-0.0.1-SNAPSHOT</name>
+                    <targets>AdminServer</targets>
+                                <source>
+              ${project.build.directory}/${project.build.finalName}.${project.packaging}
+            </source> 
+            <name>${project.build.finalName}</name> 
+
                 </configuration>
                 
                 <executions>
