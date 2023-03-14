@@ -1,0 +1,13 @@
+Hi SACHIN,
+
+Thank you for yesterday's call. It was great learning about your clients use case. I have checked and as suspected SEC.gov is one of our clients who already uses CKEditor in one of their projects called TRENDS. 
+Attached is a copy of the proposal for the new project that 3di would be working on. In the proposal I have provided you prices for CKEditor, comments and track changes plugins. 
+
+Also, you have mentioned that you had an issue with the CKE demo for react. Please review the links below and if you still have issues then please send our team a technical request explaining your issue and we'll do our best to help you out since I already have talked with the team. You can email us directly at support@cksource.com.  
+Integrating custom build https://ckeditor.com/docs/ckeditor5/latest/installation/frameworks/react.html#integrating-a-build-from-the-online-builder
+Example of CKEditor 5 with track changes and comments in React app https://github.com/ckeditor/ckeditor5-collaboration-samples/tree/master/track-changes-for-react
+
+
+Please review the proposal and let me know if the client would like to move forward with the proposed license. 
+
+I look forward to hearing from you. 
